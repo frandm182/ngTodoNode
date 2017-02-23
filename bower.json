@@ -1,0 +1,21 @@
+{
+  "name": "meantodos",
+  "description": "Simple todos app",
+  "main": "server.js",
+  "authors": [
+    "Fran"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
